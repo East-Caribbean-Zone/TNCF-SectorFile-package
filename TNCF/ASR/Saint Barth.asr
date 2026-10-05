@@ -1,0 +1,49 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:TNCF-Juliana-Sector-Package_20240829230110-240801-0007.sct
+ARTCC low boundary:Grand Case TAR1:
+ARTCC low boundary:Juliana CTR:
+ARTCC low boundary:Saint Barth TAR2:
+Fixes:COCO:name
+Fixes:COCO:symbol
+Fixes:FOURCHUE:name
+Fixes:FOURCHUE:symbol
+Fixes:FREGATE:name
+Fixes:FREGATE:symbol
+Fixes:GROUPER:name
+Fixes:GROUPER:symbol
+Fixes:SUGARLOAF:name
+Fixes:SUGARLOAF:symbol
+Free Text:TFFJ Saint Barthelemy Labels\A:freetext
+Free Text:TFFJ Saint Barthelemy Labels\B:freetext
+Free Text:TFFJ Saint Barthelemy Labels\C:freetext
+Free Text:TFFJ Saint Barthelemy Labels\D:freetext
+Free Text:TFFJ Saint Barthelemy Labels\GA APRON:freetext
+Free Text:TFFJ Saint Barthelemy Labels\MAIN APRON:freetext
+Geo:TFFJ Groundlayout Saint Barthelemy:
+Geo:TNCM Landmark Juliana Coastlines:
+Regions:TFFJ Saint Barthelemy Gro:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:1.00000
+TAGFAMILY:VATCAR
+WINDOWAREA:17.901466:-62.850027:17.907168:-62.839386
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:vSMR:ActiveProfile:Professional
+PLUGIN:vSMR:Airport:TFFJ
+PLUGIN:vSMR:SRW1BottomRightX:1050
+PLUGIN:vSMR:SRW1BottomRightY:300
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1TopLeftX:700
+PLUGIN:vSMR:SRW1TopLeftY:70

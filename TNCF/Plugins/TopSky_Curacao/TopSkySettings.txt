@@ -1,0 +1,37 @@
+; GENERAL SETUP
+Setup_COOPANS=1
+
+; TAG COLORS
+Color_Unconcerned=100,100,100
+Color_Concerned=150,150,150
+Color_Coordination=100,100,100
+Color_Assumed=255,255,255
+Color_Redundant=100,100,100
+Color_Warning=255,255,0
+
+; OTHER COLORS
+Color_Background=25,25,25
+Color_Foreground=255,255,255 
+
+; AIRSPACE
+Airspace_No_DUPE_Codes=1000,1200,2000,2200,7000,7700,7600,7500
+
+; DIVERGENCE SETTINGS
+Divergence_CLAM=0
+Divergence_RAM=0
+
+; WEATHER SETTINGS
+WXR_Latitude=14.38
+WXR_Longitude=-70.48
+WXR_Zoom=5
+WXR_ImageSize=512
+Color_Weather_Map=0,225,0
+
+; RDF SETTINGS
+RDF_Mode=1
+RDF_Accuracy=0
+RDF_Accuracy_Degrees=0
+RDF_Floor=-999
+Color_Standard_Line_RDF=255,255,255
+Color_Standard_RDF=255,255,255
+RDF_AntennaPos=12.18,-68.96

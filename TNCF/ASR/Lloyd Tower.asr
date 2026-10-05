@@ -1,0 +1,35 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:TNCF-Juliana-Sector-Package_20240829230110-240801-0007.sct
+ARTCC low boundary:Lloyd CTR:
+Free Text:TQPF Anguilla Labels\A:freetext
+Free Text:TQPF Anguilla Labels\APRON:freetext
+Free Text:TQPF Anguilla Labels\B:freetext
+Free Text:TQPF Anguilla Labels\C:freetext
+Geo:TNCM Landmark Juliana Coastlines:
+Geo:TQPF Groundlayout Anguilla:
+Regions:TQPF Anguilla Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:359.50000
+TAGFAMILY:VATCAR
+WINDOWAREA:18.200335:-63.063851:18.211273:-63.043438
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:vSMR:ActiveProfile:Professional
+PLUGIN:vSMR:Airport:TQPF
+PLUGIN:vSMR:SRW1BottomRightX:1050
+PLUGIN:vSMR:SRW1BottomRightY:300
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1TopLeftX:700
+PLUGIN:vSMR:SRW1TopLeftY:70

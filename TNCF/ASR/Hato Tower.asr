@@ -1,0 +1,130 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:TNCF-Curacao-Sector-Package_20240829230036-240801-0007.sct
+ARTCC boundary:Curacao FIR:
+ARTCC boundary:Curacao TRACON:
+ARTCC low boundary:Beatrix ATZ:
+ARTCC low boundary:Beatrix CTR:
+ARTCC low boundary:Danger area TNCB TND-6:
+ARTCC low boundary:Danger area TNCC TND-5:
+ARTCC low boundary:Flamingo ATZ:
+ARTCC low boundary:Flamingo CTR:
+ARTCC low boundary:Hato ATZ:
+ARTCC low boundary:Hato CTR:
+ARTCC low boundary:Prohibited area TNCA TNP-20:
+ARTCC low boundary:Prohibited area TNCA TNP-7:
+ARTCC low boundary:Prohibited area TNCB TNP-1:
+ARTCC low boundary:Prohibited area TNCB TNP-11:
+ARTCC low boundary:Prohibited area TNCB TNP-2:
+ARTCC low boundary:Prohibited area TNCC TNP-12:
+ARTCC low boundary:Prohibited area TNCC TNP-13:
+ARTCC low boundary:Prohibited area TNCC TNP-14:
+ARTCC low boundary:Prohibited area TNCC TNP-15:
+ARTCC low boundary:Prohibited area TNCC TNP-16:
+ARTCC low boundary:Prohibited area TNCC TNP-17:
+ARTCC low boundary:Prohibited area TNCC TNP-19:
+ARTCC low boundary:Prohibited area TNCC TNP-8:
+ARTCC low boundary:Prohibited area TNCC TNP-9:
+ARTCC low boundary:Restricted area TNCA TNR-4:
+ARTCC low boundary:Restricted area TNCC TNR-3:
+Free Text:TNCC TNCC\1:freetext
+Free Text:TNCC TNCC\10:freetext
+Free Text:TNCC TNCC\12:freetext
+Free Text:TNCC TNCC\13:freetext
+Free Text:TNCC TNCC\14:freetext
+Free Text:TNCC TNCC\15:freetext
+Free Text:TNCC TNCC\16:freetext
+Free Text:TNCC TNCC\2:freetext
+Free Text:TNCC TNCC\3:freetext
+Free Text:TNCC TNCC\4:freetext
+Free Text:TNCC TNCC\5:freetext
+Free Text:TNCC TNCC\6:freetext
+Free Text:TNCC TNCC\7:freetext
+Free Text:TNCC TNCC\8:freetext
+Free Text:TNCC TNCC\9:freetext
+Free Text:TNCC TNCC\A:freetext
+Free Text:TNCC TNCC\AEROCLUB:freetext
+Free Text:TNCC TNCC\B:freetext
+Free Text:TNCC TNCC\C:freetext
+Free Text:TNCC TNCC\CARGO APRON:freetext
+Free Text:TNCC TNCC\COAST GUARD:freetext
+Free Text:TNCC TNCC\D:freetext
+Free Text:TNCC TNCC\E:freetext
+Free Text:TNCC TNCC\GA APRON:freetext
+Free Text:TNCC TNCC\USAF:freetext
+Geo:GEO:
+Geo:TNCA Landmark Aruba Coastline:
+Geo:TNCB Landmark Bonaire Coastline:
+Geo:TNCC Groundlayout Curacao Groundlayout:
+Geo:TNCC Landmark Curacao Coastline:
+Geo:TNCF Landmark Natural Earth 10m Coastline:
+Regions:TNCC Curacao Groundlayout:polygon
+Runways:TNCA 11-29:extended centerline 1
+Runways:TNCA 11-29:extended centerline 1 left base
+Runways:TNCA 11-29:extended centerline 1 left ticks
+Runways:TNCA 11-29:extended centerline 1 left vectoring
+Runways:TNCA 11-29:extended centerline 1 right base
+Runways:TNCA 11-29:extended centerline 1 right ticks
+Runways:TNCA 11-29:extended centerline 1 right vectoring
+Runways:TNCB 10-28:extended centerline 1
+Runways:TNCB 10-28:extended centerline 1 left base
+Runways:TNCB 10-28:extended centerline 1 left ticks
+Runways:TNCB 10-28:extended centerline 1 left vectoring
+Runways:TNCB 10-28:extended centerline 1 right base
+Runways:TNCB 10-28:extended centerline 1 right ticks
+Runways:TNCB 10-28:extended centerline 1 right vectoring
+Runways:TNCC 11-29:extended centerline 1
+Runways:TNCC 11-29:extended centerline 1 left base
+Runways:TNCC 11-29:extended centerline 1 left ticks
+Runways:TNCC 11-29:extended centerline 1 left vectoring
+Runways:TNCC 11-29:extended centerline 1 right base
+Runways:TNCC 11-29:extended centerline 1 right ticks
+Runways:TNCC 11-29:extended centerline 1 right vectoring
+VORs:ABA:frequency
+VORs:ABA:name
+VORs:ABA:symbol
+VORs:BEA:frequency
+VORs:BEA:name
+VORs:BEA:symbol
+VORs:CJN:frequency
+VORs:CJN:name
+VORs:CJN:symbol
+VORs:CRO:frequency
+VORs:CRO:name
+VORs:CRO:symbol
+VORs:PJB:frequency
+VORs:PJB:name
+VORs:PJB:symbol
+VORs:PJG:frequency
+VORs:PJG:name
+VORs:PJG:symbol
+VORs:PRG:frequency
+VORs:PRG:name
+VORs:PRG:symbol
+VORs:RHC:frequency
+VORs:RHC:name
+VORs:RHC:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:348.00000
+TAGFAMILY:VATCAR
+WINDOWAREA:12.179204:-68.978595:12.198982:-68.941684
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:vSMR:ActiveProfile:Professional
+PLUGIN:vSMR:Airport:TNCC
+PLUGIN:vSMR:SRW1BottomRightX:1050
+PLUGIN:vSMR:SRW1BottomRightY:300
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1TopLeftX:700
+PLUGIN:vSMR:SRW1TopLeftY:70

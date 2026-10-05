@@ -1,0 +1,31 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:TNCF-Juliana-Sector-Package_20240829230110-240801-0007.sct
+ARTCC low boundary:Saba ATZ:
+Geo:TNCM Landmark Juliana Coastlines:
+Geo:TNCS Groundlayout Saba:
+Regions:TNCS Saba Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:338.00000
+TAGFAMILY:VATCAR
+WINDOWAREA:17.643434:-63.224306:17.647260:-63.217164
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:vSMR:ActiveProfile:Professional
+PLUGIN:vSMR:Airport:TNCS
+PLUGIN:vSMR:SRW1BottomRightX:1050
+PLUGIN:vSMR:SRW1BottomRightY:300
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1TopLeftX:700
+PLUGIN:vSMR:SRW1TopLeftY:70

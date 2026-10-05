@@ -1,0 +1,6 @@
+LOGIN:TNCM:JULIANA DELIVERY:JD
+LOGIN:TNCM:JULIANA TOWER:JT
+LOGIN:TNCM:JULIANA APPROACH:JA
+
+DCL:TNCM:SID:<callsign> CLRD TO <ades> OFF <drwy> VIA <sid> ALT <cfl> SQUAWK <assr> <atis> <rmk>
+DCL:TQPF:SID:<callsign> CLRD TO <ades> OFF <drwy> VIA <sid> ALT <cfl> SQUAWK <assr> <rmk>

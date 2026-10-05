@@ -1,0 +1,77 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:TNCF-Juliana-Sector-Package_20240829230110-240801-0007.sct
+ARTCC low boundary:Grand Case TAR1:
+ARTCC low boundary:Juliana CTR:
+ARTCC low boundary:Saint Barth TAR2:
+Free Text:TNCM Juliana Labels\A:freetext
+Free Text:TNCM Juliana Labels\A1:freetext
+Free Text:TNCM Juliana Labels\A2:freetext
+Free Text:TNCM Juliana Labels\A3:freetext
+Free Text:TNCM Juliana Labels\A4:freetext
+Free Text:TNCM Juliana Labels\B:freetext
+Free Text:TNCM Juliana Labels\B1:freetext
+Free Text:TNCM Juliana Labels\B2:freetext
+Free Text:TNCM Juliana Labels\B3:freetext
+Free Text:TNCM Juliana Labels\B4:freetext
+Free Text:TNCM Juliana Labels\B5:freetext
+Free Text:TNCM Juliana Labels\C:freetext
+Free Text:TNCM Juliana Labels\C1:freetext
+Free Text:TNCM Juliana Labels\C10:freetext
+Free Text:TNCM Juliana Labels\C11:freetext
+Free Text:TNCM Juliana Labels\C12:freetext
+Free Text:TNCM Juliana Labels\C2:freetext
+Free Text:TNCM Juliana Labels\C3:freetext
+Free Text:TNCM Juliana Labels\C4:freetext
+Free Text:TNCM Juliana Labels\C5:freetext
+Free Text:TNCM Juliana Labels\C6:freetext
+Free Text:TNCM Juliana Labels\C7:freetext
+Free Text:TNCM Juliana Labels\C8:freetext
+Free Text:TNCM Juliana Labels\C9:freetext
+Free Text:TNCM Juliana Labels\D:freetext
+Free Text:TNCM Juliana Labels\E:freetext
+Free Text:TNCM Juliana Labels\E APRON:freetext
+Free Text:TNCM Juliana Labels\F:freetext
+Free Text:TNCM Juliana Labels\F APRON:freetext
+Free Text:TNCM Juliana Labels\G APRON:freetext
+Free Text:TNCM Juliana Labels\G1:freetext
+Free Text:TNCM Juliana Labels\G2:freetext
+Free Text:TNCM Juliana Labels\H:freetext
+Free Text:TNCM Juliana Labels\H APRON:freetext
+Free Text:TNCM Juliana Labels\H1:freetext
+Free Text:TNCM Juliana Labels\H2:freetext
+Free Text:TNCM Juliana Labels\H3:freetext
+Free Text:TNCM Juliana Labels\WEST APRON:freetext
+Geo:TNCM Groundlayout Juliana:
+Geo:TNCM Landmark Juliana Coastlines:
+NDBs:PJE:frequency
+NDBs:PJE:name
+NDBs:PJE:symbol
+Regions:TNCM Juliana Groundlayout:polygon
+VORs:PJM:frequency
+VORs:PJM:name
+VORs:PJM:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:8.50000
+TAGFAMILY:VATCAR
+WINDOWAREA:18.036077:-63.123826:18.051523:-63.094999
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:vSMR:ActiveProfile:Professional
+PLUGIN:vSMR:Airport:TNCM
+PLUGIN:vSMR:SRW1BottomRightX:1050
+PLUGIN:vSMR:SRW1BottomRightY:300
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1TopLeftX:700
+PLUGIN:vSMR:SRW1TopLeftY:70

@@ -1,0 +1,73 @@
+Settings	sector	\TNCF-Curacao-Sector-Package_20240829230036-240801-0007.sct
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Settings	SettingsfileSYMBOLOGY	\TNCF\Settings\Curacao_Profile_Settings.txt
+Settings	SettingsfileVOICE	\TNCF\Settings\Curacao_Profile_Settings.txt
+Settings	SettingsfilePROFILE	\TNCF\Settings\Curacao_Profile_Settings.txt
+Settings	SettingsfileTAGS	\TNCF\Settings\Curacao_Profile_Settings.txt
+Settings	SettingsfileSIL	\TNCF\Settings\Lists.txt
+Settings	SettingsfileSEL	\TNCF\Settings\Lists.txt
+Settings	SettingsfileDEP	\TNCF\Settings\Lists.txt
+Settings	SettingsfileARR	\TNCF\Settings\Lists.txt
+Settings	SettingsfileFP	\TNCF\Settings\Lists.txt
+Settings	SettingsfilePLUGINS	\TNCF\Settings\Curacao_Profile_Settings.txt
+Settings	Settingsfile	\TNCF\Settings\Curacao_Profile_Settings.txt
+Settings	SettingsfileSCREEN	\TNCF\Settings\Curacao_Profile_Settings.txt
+Settings	SettingsfileCONFLICT	\TNCF\Settings\Lists.txt
+Settings	SettingsfileVCCS	\TNCF\Settings\Curacao_Profile_Settings.txt
+Settings	SettingsfilePILOTING	\TNCF\Settings\Lists.txt
+Settings	SettingsfileORIGPLANE	\TNCF\Settings\Lists.txt
+Settings	SettingsfileSTUP	\TNCF\Settings\Lists.txt
+Settings	SettingsfileTAXIOUT	\TNCF\Settings\Lists.txt
+Settings	SettingsfileTAKEOFF	\TNCF\Settings\Lists.txt
+Settings	SettingsfileADCS	\TNCF\Settings\Lists.txt
+Settings	SettingsfileTAXIIN	\TNCF\Settings\Lists.txt
+Settings	AtisFolder	\TNCF_ES_ATIS\atisfiles.txt
+Settings	alias	\TNCF\Alias\alias.txt
+Settings	airlines	\TNCF\ICAO\ICAO_Airlines.txt
+Settings	airports	\TNCF\ICAO\ICAO_Airports.txt
+Settings	aircraft	\TNCF\ICAO\ICAO_Aircraft.txt
+Settings	airportcoords	\TNCF\NavData\icao.txt
+Settings	airways	\TNCF\NavData\airway.txt
+ASRFastKeys	1	\TNCF\ASR\Curacao Control.asr
+ASRFastKeys	2	\TNCF\ASR\Curacao Terminal.asr
+ASRFastKeys	3	\TNCF\ASR\Beatrix Approach.asr
+ASRFastKeys	4	\TNCF\ASR\Beatrix Tower.asr
+ASRFastKeys	5	\TNCF\ASR\Hato Tower.asr
+ASRFastKeys	6	\TNCF\ASR\Flamingo Tower.asr
+RecentFiles	Recent1	\TNCF\ASR\Curacao Control.asr
+RecentFiles	Recent2	\TNCF\ASR\Beatrix Approach.asr
+RecentFiles	Recent3	\TNCF\ASR\Beatrix Tower.asr
+RecentFiles	Recent4	\TNCF\ASR\Curacao Terminal.asr
+RecentFiles	Recent5	\TNCF\ASR\Flamingo Tower.asr
+RecentFiles	Recent6	\TNCF\ASR\Hato Tower.asr
+Sounds	Sound0	\TNCF\Sounds\handoff_request.wav
+Sounds	Sound1	\TNCF\Sounds\handoff_accept.wav
+Sounds	Sound2	\TNCF\Sounds\conflict_alert.wav
+Sounds	Sound3	\TNCF\Sounds\radio_message.wav
+Sounds	Sound4	\TNCF\Sounds\private_message.wav
+Sounds	Sound5	\TNCF\Sounds\atc_message.wav
+Sounds	Sound6	\TNCF\Sounds\broadcast_message.wav
+Sounds	Sound7	\TNCF\Sounds\landline_request.wav
+Sounds	Sound8	\TNCF\Sounds\supervisor_message.wav
+Sounds	Sound9	\TNCF\Sounds\connected.wav
+Sounds	Sound10	\TNCF\Sounds\disconnected.wav
+Sounds	Sound11	\TNCF\Sounds\ongoing_request.wav
+Sounds	Sound12	\TNCF\Sounds\ongoing_accepted.wav
+Sounds	Sound13	\TNCF\Sounds\ongoing_refused.wav
+Sounds	Sound14	\TNCF\Sounds\ongoing_manual.wav
+Sounds	Sound15	\TNCF\Sounds\new_atis.wav
+Sounds	Sound16	\TNCF\Sounds\handoff_refused.wav
+Sounds	Sound17	\TNCF\Sounds\pointout.wav
+Sounds	Sound18	\TNCF\Sounds\startup.wav
+Plugins	Plugin0	\TNCF\Plugins\TopSky_Curacao\TopSky.dll
+Plugins	Plugin0Display0	Standard ES radar screen
+Plugins	Plugin1	\TNCF\Plugins\vSMR\vSMR.dll
+Plugins	Plugin1Display0	SMR radar display
+Plugins	Plugin0Display1	SMR radar display
+Plugins	Plugin1Display1	Standard ES radar screen
+Plugins	Plugin2	\TNCF\Plugins\VCH\VCH.dll
+Plugins	Plugin3	\TNCF\Plugins\DiscordEuroscope\DiscordEuroscope.dll
+Plugins	Plugin4	\TNCF\Plugins\RDFPlugin\RDFPlugin.dll
+LastSession	atis_freq4	118000
+Plugins	Plugin4Display0	Standard ES radar screen

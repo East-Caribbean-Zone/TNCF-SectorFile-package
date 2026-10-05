@@ -1,0 +1,84 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:TNCF-Juliana-Sector-Package_20240829230110-240801-0007.sct
+ARTCC boundary:Juliana TMA:
+ARTCC low boundary:Juliana CTR:
+ARTCC low boundary:Juliana MVA Border:
+ARTCC low boundary:Lloyd CTR:
+ARTCC low boundary:Saba ATZ:
+ARTCC low boundary:Saba MVA Border:
+ARTCC low boundary:Saint Barth MVA Border:
+ARTCC low boundary:Statia ATZ:
+ARTCC low boundary:Statia MVA Border:
+Airports:TFFG:symbol
+Airports:TFFJ:symbol
+Airports:TNCE:symbol
+Airports:TNCS:symbol
+Airports:TQPF:symbol
+Fixes:AVAKI:symbol
+Fixes:BOPAT:symbol
+Fixes:CROOK:symbol
+Fixes:DANDE:name
+Fixes:DANDE:symbol
+Fixes:ELOPO:name
+Fixes:ELOPO:symbol
+Fixes:GABUL:symbol
+Fixes:GOUDA:name
+Fixes:GOUDA:symbol
+Fixes:GROUPER:symbol
+Fixes:JUICE:name
+Fixes:JUICE:symbol
+Fixes:MNOLO:name
+Fixes:MNOLO:symbol
+Fixes:MODOR:symbol
+Fixes:ONBED:symbol
+Fixes:OTMOT:symbol
+Fixes:PF11I:symbol
+Fixes:SLUGO:name
+Fixes:SLUGO:symbol
+Fixes:TRNKY:name
+Fixes:TRNKY:symbol
+Fixes:UMANA:symbol
+Fixes:URMAD:symbol
+Fixes:ZPATA:name
+Fixes:ZPATA:symbol
+Geo:TNCM Landmark Juliana Coastlines:
+NDBs:PJE:frequency
+NDBs:PJE:name
+NDBs:PJE:symbol
+Runways:TNCM 10-28:extended centerline 1
+Runways:TNCM 10-28:extended centerline 1 left ticks
+Runways:TNCM 10-28:extended centerline 1 right ticks
+Runways:TQPF 11-29:extended centerline 1
+Runways:TQPF 11-29:extended centerline 1 left base
+Runways:TQPF 11-29:extended centerline 1 left ticks
+Runways:TQPF 11-29:extended centerline 1 left vectoring
+Runways:TQPF 11-29:extended centerline 1 right base
+Runways:TQPF 11-29:extended centerline 1 right ticks
+Runways:TQPF 11-29:extended centerline 1 right vectoring
+Runways:TQPF 11-29:extended centerline 2
+Runways:TQPF 11-29:extended centerline 2 left base
+Runways:TQPF 11-29:extended centerline 2 left ticks
+Runways:TQPF 11-29:extended centerline 2 left vectoring
+Runways:TQPF 11-29:extended centerline 2 right base
+Runways:TQPF 11-29:extended centerline 2 right ticks
+Runways:TQPF 11-29:extended centerline 2 right vectoring
+VORs:PJM:frequency
+VORs:PJM:name
+VORs:PJM:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:12.50000
+TAGFAMILY:VATCAR-TOPSKY
+WINDOWAREA:17.272455:-64.471875:18.680239:-61.844553

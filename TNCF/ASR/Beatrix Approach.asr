@@ -1,0 +1,122 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:TNCF-Curacao-Sector-Package_20240829230036-240801-0007.sct
+ARTCC boundary:Curacao FIR:
+ARTCC boundary:Curacao TRACON:
+ARTCC low boundary:Beatrix ATZ:
+ARTCC low boundary:Beatrix CTR:
+ARTCC low boundary:Danger area TNCB TND-6:
+ARTCC low boundary:Danger area TNCC TND-5:
+ARTCC low boundary:Flamingo ATZ:
+ARTCC low boundary:Flamingo CTR:
+ARTCC low boundary:Hato ATZ:
+ARTCC low boundary:Hato CTR:
+ARTCC low boundary:Prohibited area TNCA TNP-20:
+ARTCC low boundary:Prohibited area TNCA TNP-7:
+ARTCC low boundary:Prohibited area TNCB TNP-1:
+ARTCC low boundary:Prohibited area TNCB TNP-11:
+ARTCC low boundary:Prohibited area TNCB TNP-2:
+ARTCC low boundary:Prohibited area TNCC TNP-12:
+ARTCC low boundary:Prohibited area TNCC TNP-13:
+ARTCC low boundary:Prohibited area TNCC TNP-14:
+ARTCC low boundary:Prohibited area TNCC TNP-15:
+ARTCC low boundary:Prohibited area TNCC TNP-16:
+ARTCC low boundary:Prohibited area TNCC TNP-17:
+ARTCC low boundary:Prohibited area TNCC TNP-19:
+ARTCC low boundary:Prohibited area TNCC TNP-8:
+ARTCC low boundary:Prohibited area TNCC TNP-9:
+ARTCC low boundary:Restricted area TNCA TNR-4:
+ARTCC low boundary:Restricted area TNCC TNR-3:
+Fixes:ADRIV:name
+Fixes:ADRIV:symbol
+Fixes:APNUT:name
+Fixes:APNUT:symbol
+Fixes:DATOR:name
+Fixes:DATOR:symbol
+Fixes:DAVLA:name
+Fixes:DAVLA:symbol
+Fixes:ELOTU:name
+Fixes:ELOTU:symbol
+Fixes:ELUMO:name
+Fixes:ELUMO:symbol
+Fixes:IGROM:name
+Fixes:IGROM:symbol
+Fixes:ITSEL:name
+Fixes:ITSEL:symbol
+Fixes:LIGHTHOUSE:name
+Fixes:LIGHTHOUSE:symbol
+Fixes:MOBAM:name
+Fixes:MOBAM:symbol
+Fixes:NOREX:name
+Fixes:NOREX:symbol
+Fixes:REFINERY:name
+Fixes:REFINERY:symbol
+Fixes:SIMON:name
+Fixes:SIMON:symbol
+Fixes:TETUM:name
+Fixes:TETUM:symbol
+Fixes:VODER:name
+Fixes:VODER:symbol
+Fixes:WALLP:name
+Fixes:WALLP:symbol
+Geo:GEO:
+Geo:TNCA Landmark Aruba Coastline:
+Geo:TNCB Landmark Bonaire Coastline:
+Geo:TNCC Landmark Curacao Coastline:
+Geo:TNCF Landmark Natural Earth 10m Coastline:
+Geo:TNCM Landmark Juliana Coastlines:
+Runways:TNCA 11-29:centerline
+Runways:TNCA 11-29:extended centerline 1
+Runways:TNCA 11-29:extended centerline 1 left ticks
+Runways:TNCA 11-29:extended centerline 1 right ticks
+Runways:TNCA 11-29:name
+Runways:TNCB 10-28:centerline
+Runways:TNCB 10-28:extended centerline 1
+Runways:TNCB 10-28:extended centerline 1 left ticks
+Runways:TNCB 10-28:extended centerline 1 right ticks
+Runways:TNCB 10-28:name
+Runways:TNCC 11-29:centerline
+Runways:TNCC 11-29:extended centerline 1
+Runways:TNCC 11-29:extended centerline 1 left ticks
+Runways:TNCC 11-29:extended centerline 1 right ticks
+Runways:TNCC 11-29:name
+VORs:ABA:frequency
+VORs:ABA:name
+VORs:ABA:symbol
+VORs:BEA:frequency
+VORs:BEA:name
+VORs:BEA:symbol
+VORs:CJN:frequency
+VORs:CJN:name
+VORs:CJN:symbol
+VORs:CRO:frequency
+VORs:CRO:name
+VORs:CRO:symbol
+VORs:PJB:frequency
+VORs:PJB:name
+VORs:PJB:symbol
+VORs:PJG:frequency
+VORs:PJG:name
+VORs:PJG:symbol
+VORs:PRG:frequency
+VORs:PRG:name
+VORs:PRG:symbol
+VORs:RHC:frequency
+VORs:RHC:name
+VORs:RHC:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:12.50000
+TAGFAMILY:VATCAR-TOPSKY
+WINDOWAREA:12.032593:-70.959040:13.080679:-69.003016
