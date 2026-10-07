@@ -36,11 +36,11 @@ ASRFastKeys	4	\TNCF\ASR\Beatrix Tower.asr
 ASRFastKeys	5	\TNCF\ASR\Hato Tower.asr
 ASRFastKeys	6	\TNCF\ASR\Flamingo Tower.asr
 RecentFiles	Recent1	\TNCF\ASR\Curacao Control.asr
-RecentFiles	Recent2	\TNCF\ASR\Beatrix Approach.asr
-RecentFiles	Recent3	\TNCF\ASR\Beatrix Tower.asr
-RecentFiles	Recent4	\TNCF\ASR\Curacao Terminal.asr
-RecentFiles	Recent5	\TNCF\ASR\Flamingo Tower.asr
-RecentFiles	Recent6	\TNCF\ASR\Hato Tower.asr
+RecentFiles	Recent2	\TNCF\ASR\Flamingo Tower.asr
+RecentFiles	Recent3	\TNCF\ASR\Hato Tower.asr
+RecentFiles	Recent4	\TNCF\ASR\Beatrix Tower.asr
+RecentFiles	Recent5	\TNCF\ASR\Curacao Terminal.asr
+RecentFiles	Recent6	\TNCF\ASR\Beatrix Approach.asr
 Sounds	Sound0	\TNCF\Sounds\handoff_request.wav
 Sounds	Sound1	\TNCF\Sounds\handoff_accept.wav
 Sounds	Sound2	\TNCF\Sounds\conflict_alert.wav

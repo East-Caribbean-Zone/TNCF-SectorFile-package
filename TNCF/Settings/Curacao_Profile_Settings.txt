@@ -257,7 +257,7 @@ Controller:breaking:33023:3.5:0:0:7
 Controller:timeout:16777215:3.5:0:0:7
 Metar:normal:14276864:5.0:0:0:7
 Metar:modified:33023:5.0:0:0:7
-Metar:timeout:16777215:3.5:0:0:7
+Metar:timeout:16777215:5.0:0:0:7
 Other:wait:16777215:3.5:0:0:7
 Other:distance line:65535:3.5:0:0:7
 Other:distance values:16777215:5.5:0:0:7
@@ -540,6 +540,9 @@ ATIS2:Flamingo Tower - Feedback @ vats.im/fbcar
 ATIS3:VFR Charts @ vats.im/curvfr
 ATIS4:Want to become a controller? Join us @ vats.im/joincar
 PROFILE:XX_OBS:300:0
+ATIS2:
+ATIS3:
+ATIS4:
 END
 TAGS
 TAGFAMILY:VATCAR
