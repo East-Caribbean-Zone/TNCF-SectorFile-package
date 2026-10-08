@@ -534,6 +534,9 @@ ATIS2:CJ Lloyd Tower - Feedback @ vats.im/fbcar
 ATIS3:VFR Charts @ vats.im/julvfr
 ATIS4:Want to become a controller? Join us @ vats.im/joincar
 PROFILE:XX_OBS:300:0
+ATIS2:Replace XX with your initials.
+ATIS3:
+ATIS4:
 END
 TAGS
 TAGFAMILY:VATCAR

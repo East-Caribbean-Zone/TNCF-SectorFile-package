@@ -496,27 +496,27 @@ AG:TNCA_APP:120.900
 END
 PROFILE
 PROFILE:TNCF_CTR:300:6
-ATIS2:Curaçao Control - Feedback @ vats.im/fbcar
+ATIS2:Curaï¿½ao Control - Feedback @ vats.im/fbcar
 ATIS3:VFR Charts @ vats.im/curvfr
 ATIS4:Want to become a controller? Join us @ vats.im/joincar
 PROFILE:TNCF_S_CTR:300:6
-ATIS2:Student - Curaçao Control - Feedback @ vats.im/fbcar
+ATIS2:Student - Curaï¿½ao Control - Feedback @ vats.im/fbcar
 ATIS3:VFR Charts @ vats.im/curvfr
 ATIS4:Want to become a controller? Join us @ vats.im/joincar
 PROFILE:TNCF_M_CTR:300:6
-ATIS2:Mentor - Curaçao Control - Feedback @ vats.im/fbcar
+ATIS2:Mentor - Curaï¿½ao Control - Feedback @ vats.im/fbcar
 ATIS3:VFR Charts @ vats.im/curvfr
 ATIS4:Want to become a controller? Join us @ vats.im/joincar
 PROFILE:TNCF_APP:150:5
-ATIS2:Curaçao Terminal - Feedback @ vats.im/fbcar
+ATIS2:Curaï¿½ao Terminal - Feedback @ vats.im/fbcar
 ATIS3:VFR Charts @ vats.im/curvfr
 ATIS4:Want to become a controller? Join us @ vats.im/joincar
 PROFILE:TNCF_S_APP:150:5
-ATIS2:Student - Curaçao Terminal - Feedback @ vats.im/fbcar
+ATIS2:Student - Curaï¿½ao Terminal - Feedback @ vats.im/fbcar
 ATIS3:VFR Charts @ vats.im/curvfr
 ATIS4:Want to become a controller? Join us @ vats.im/joincar
 PROFILE:TNCF_M_APP:150:5
-ATIS2:Mentor - Curaçao Terminal - Feedback @ vats.im/fbcar
+ATIS2:Mentor - Curaï¿½ao Terminal - Feedback @ vats.im/fbcar
 ATIS3:VFR Charts @ vats.im/curvfr
 ATIS4:Want to become a controller? Join us @ vats.im/joincar
 PROFILE:TNCA_APP:150:5
@@ -540,7 +540,7 @@ ATIS2:Flamingo Tower - Feedback @ vats.im/fbcar
 ATIS3:VFR Charts @ vats.im/curvfr
 ATIS4:Want to become a controller? Join us @ vats.im/joincar
 PROFILE:XX_OBS:300:0
-ATIS2:
+ATIS2:Replace XX with your initials.
 ATIS3:
 ATIS4:
 END
